@@ -2,7 +2,7 @@
 
 js数组平铺和树形结构的转换
 
-#Examples
+# Examples
 
 ````
 var util = require("./index.js");
