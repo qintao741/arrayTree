@@ -1,0 +1,24 @@
+{
+  "name": "arraytree",
+  "version": "1.0.0",
+  "description": "array tree convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qintao741/arrayTree.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "tree"
+  ],
+  "author": "liubintao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qintao741/arrayTree/issues"
+  },
+  "homepage": "https://github.com/qintao741/arrayTree#readme"
+}
